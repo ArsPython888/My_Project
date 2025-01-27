@@ -1,0 +1,1 @@
+In short, Git is a type of software known as a Version Control System (VCS), which you can run locally on your computer to keep track of the different versions of your projects. GitHub is a cloud-based web service for hosting projects that are tracked with Git, where you can store and track your projects across different versions. Both Git & GitHub are used for version control.
